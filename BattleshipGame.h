@@ -36,8 +36,7 @@ private:
 
 
     int posRows = 5, indexSize = 5;  // Rows and columns based on posIndex
-    // int healthLeft = 5;
-    // int shipLeft = 8;
+
 
 public:
     BattleshipGame();
